@@ -16,3 +16,11 @@
 - `docs/` – proposal, ER diagram, final report
 - `sql/` – schema, data, queries, objects, roles (run in order: 01 → 05)
 - `app/` – web application source code
+
+## Roles (Phase 1)
+| Member | Role |
+|---|---|
+| Asya Tahtasakal | Documentation (proposal) |
+| Özge Sena Derviş | Data architect (ER diagram) |
+| Umut Sidar Tahtasakal | SQL developer |
+| Metin Akseki | Application developer |
